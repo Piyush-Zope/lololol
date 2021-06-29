@@ -1,0 +1,50 @@
+h1{
+
+text-align: center;
+font-size:2cm
+}
+
+video{
+
+align-content: center;
+border:solid;
+
+}
+
+.dragonVid{
+    border:solid;
+    align-content:center;
+    display:flex
+    }
+
+img{
+
+border:solid;
+
+}
+h3{
+
+text-align: center;
+
+}
+.mainSub{
+
+display:flexbox;
+margin-left:440px
+
+}
+
+a{
+
+font:size 1cm;
+
+}
+
+h2{
+
+justify-content: left;
+text-align: left;
+
+}
+
+
